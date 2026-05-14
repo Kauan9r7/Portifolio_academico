@@ -31,16 +31,10 @@ Página web criada para apresentar o portfólio acadêmico e profissional.
 
 A página publicada do projeto estará disponível em:
 
-[inserir link do GitHub Pages após a publicação]
+https://kauan9r7.github.io/Portifolio_academico/
 
 ## LinkedIn
 
 Meu perfil profissional está disponível em:
 
-[inserir link do LinkedIn]
-
-## Acesso
-
-- Repositório GitHub: [inserir link]
-- GitHub Pages: [inserir link]
-- LinkedIn: [inserir link]
+https://www.linkedin.com/in/cauan-bastos-202389400/
