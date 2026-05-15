@@ -3,7 +3,4 @@ Thumbs.db
 .vscode/
 node_modules/
 .env
-setup_portfolio.py
 workflow_entrega_intermediaria_github.md
-move_files.py
-documentos/roteiro_apresentacao.txt
