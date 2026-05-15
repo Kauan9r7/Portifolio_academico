@@ -13,18 +13,16 @@ Minha organizacao de infraestrutura diretiva segue o seguinte padrao:
 
 ## Tecnologias e Ferramentas
 
-- HTML5: Uso avancado de tags estruturais;
+- HTML5: Uso de tags estruturais;
 - CSS3: Estilizacao flexivel, padronizada e design consistente;
 - Git & GitHub: Versionamento de ponta a ponta;
-- GitHub Pages: Workflow de hospedagem estatica otimizada para o repositorio.
+- GitHub Pages: Servico de hospedagem de site estatico otimizado para o repositorio.
 
 ## Acesse o Projeto em Producao
 
 O portfolio interage de forma automatica com o GitHub Pages utilizando o ambiente de arquivos da raiz. Todo conteudo e servido via o link:
 
 Acessar o Portfolio: https://kauan9r7.github.io/Portifolio_academico/
-
-(Para desenvolvimento local, simplesmente clone a branch principal e abra o arquivo `index.html` dentro de qualquer navegador sem a necessidade de um servidor back-end complexo).
 
 ## Contato e Redes Profissionais
 
