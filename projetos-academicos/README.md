@@ -1,3 +1,7 @@
-# Projetos Acadêmicos
+# Projetos Academicos
 
-Esta pasta reúne projetos desenvolvidos em atividades acadêmicas, trabalhos de curso e exercícios práticos.
+Esta pasta reune projetos desenvolvidos em atividades academicas, trabalhos de curso e exercicios praticos avaliativos.
+
+## Objetivo
+
+Centralizar de forma organizada todas as demandas solicitadas durante a formacao, facilitando a consulta, avaliacao e manutencao dos repositorios de estudo teorico e pratico.

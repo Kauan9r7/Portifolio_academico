@@ -1,40 +1,37 @@
-# PortfolioHUB
+# Portfolio Academico e Profissional - Cauan Bastos
 
-## Sobre o repositório
+Bem-vindo(a) ao meu repositorio de portfolio! Este espaco foi criado para centralizar meus projetos desenvolvidos ao longo da minha jornada academica e pratica profissional. O repositorio segue boas praticas de organizacao visual, estrutural e versionamento focado na web.
 
-Este repositório tem como objetivo reunir projetos acadêmicos e pessoais desenvolvidos durante minha formação, utilizando boas práticas de organização, documentação e versionamento com Git e GitHub.
+## Estrutura do Repositorio
 
-## Estrutura do repositório
+Minha organizacao de infraestrutura diretiva segue o seguinte padrao:
 
-- `projetos-academicos/`: projetos desenvolvidos em atividades acadêmicas;
-- `projetos-pessoais/`: projetos criados para estudo e prática;
-- `documentos/`: documentos de apoio e registros;
-- `slides/`: apresentações relacionadas aos projetos;
-- `assets/`: arquivos de estilo, imagens e scripts usados na página principal.
+- `index.html` e `style.css`: Coracao do portfolio web na raiz do projeto.
+- `projetos-academicos/`: Projetos praticos e trabalhos originados do contexto universitario.
+- `projetos-pessoais/`: Experimentos logicos, estudos e aplicacoes de autoria independente.
+- `documentos/`: Base de anotacoes e artefatos de pesquisa teorica.
 
-## Tecnologias utilizadas
+## Tecnologias e Ferramentas
 
-- HTML;
-- CSS;
-- JavaScript;
-- Git;
-- GitHub;
-- GitHub Pages.
+- HTML5: Uso avancado de tags estruturais;
+- CSS3: Estilizacao flexivel, padronizada e design consistente;
+- Git & GitHub: Versionamento de ponta a ponta;
+- GitHub Pages: Workflow de hospedagem estatica otimizada para o repositorio.
 
-## Projetos incluídos
+## Acesse o Projeto em Producao
 
-### Projeto Inicial — Página de Portfólio
+O portfolio interage de forma automatica com o GitHub Pages utilizando o ambiente de arquivos da raiz. Todo conteudo e servido via o link:
 
-Página web criada para apresentar o portfólio acadêmico e profissional.
+Acessar o Portfolio: https://kauan9r7.github.io/Portifolio_academico/
 
-## GitHub Pages
+(Para desenvolvimento local, simplesmente clone a branch principal e abra o arquivo `index.html` dentro de qualquer navegador sem a necessidade de um servidor back-end complexo).
 
-A página publicada do projeto estará disponível em:
+## Contato e Redes Profissionais
 
-https://kauan9r7.github.io/Portifolio_academico/
+Voce pode interagir com meus links ou conhecer mais da minha trajetoria profissional visitando:
 
-## LinkedIn
+- LinkedIn: https://www.linkedin.com/in/cauan-bastos-202389400/
+- GitHub: https://github.com/Kauan9r7
 
-Meu perfil profissional está disponível em:
-
-https://www.linkedin.com/in/cauan-bastos-202389400/
+---
+Construido, versionado e mantido por Cauan Bastos.
