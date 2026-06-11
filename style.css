@@ -1,6 +1,8 @@
 :root {
     --primary-color: #24292e;
     --accent-color: #0366d6;
+    --linkedin-color: #0077b5;
+    --linkedin-hover: #005987;
     --bg-color: #f6f8fa;
     --card-bg: #ffffff;
     --text-color: #2f363d;
@@ -40,6 +42,7 @@ header .container {
 nav ul {
     display: flex;
     list-style: none;
+    align-items: center;
 }
 
 nav ul li {
@@ -56,6 +59,10 @@ nav ul li a:hover {
     color: #dbedff;
 }
 
+.linkedin-link-nav {
+    color: #00a0dc !important;
+}
+
 .section {
     padding: 40px 0;
 }
@@ -64,6 +71,35 @@ h2 {
     margin-bottom: 20px;
     border-bottom: 2px solid #e1e4e8;
     padding-bottom: 10px;
+}
+
+.profile-container {
+    background: var(--card-bg);
+    padding: 30px;
+    border-radius: 6px;
+    border: 1px solid #e1e4e8;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.profile-info p {
+    margin-bottom: 15px;
+}
+
+.btn-linkedin {
+    display: inline-block;
+    background-color: var(--linkedin-color);
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 0.95rem;
+    transition: background-color 0.2s;
+    margin-top: 10px;
+}
+
+.btn-linkedin:hover {
+    background-color: var(--linkedin-hover);
 }
 
 .projects-grid {

@@ -1,17 +1,15 @@
-# Fase 2 - Configuração Inicial e Integração com GitHub
+# Fase 2 - Configuração Inicial e Integrações (GitHub + LinkedIn)
 
-Este documento registra a estruturação inicial do PortfolioHUB e a estratégia técnica para renderização dinâmica de projetos reais utilizando a API oficial do GitHub.
+Este documento registra a estruturação inicial do PortfolioHUB e as integrações externas realizadas para consolidação do perfil profissional do desenvolvedor.
 
 ---
 
-## 1. Estrutura do Projeto Atualizada
-
-O esqueleto inicial foi expandido para suportar modularidade e scripts de integração sem perder a simplicidade arquitetural:
-
+## 1. Estrutura do Projeto
+O projeto mantém-se leve e focado no front-end de alto desempenho:
 ```text
 Portifolio_academico/
-├── index.html          # Interface principal do PortfolioHUB
-├── style.css           # Estilização e identidade visual responsiva
-├── script.js          # Lógica de integração com a GitHub API
+├── index.html          # Interface com conexões externas integradas
+├── style.css           # Estilização padrão GitHub + Branding LinkedIn
+├── script.js          # Consumo assíncrono da GitHub REST API
 ├── fase1_planejamento.md
 └── fase2_integracao.md
