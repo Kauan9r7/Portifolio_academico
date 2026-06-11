@@ -161,3 +161,34 @@ footer {
     color: #586069;
     border-top: 1px solid #e1e4e8;
 }
+
+/* Customizações da Fase 3 */
+.security-buttons {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 15px;
+}
+.btn-sec {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 0.9rem;
+}
+.btn-admin-color { background-color: #28a745; color: white; }
+.btn-guest-color { background-color: #6a737d; color: white; }
+.status-box {
+    background: #f1f3f5;
+    padding: 10px;
+    border-left: 4px solid #0366d6;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+.restricted-zone {
+    background-color: #fff3cd;
+    border: 1px solid #ffeeba;
+    padding: 15px;
+    border-radius: 4px;
+    color: #856404;
+}

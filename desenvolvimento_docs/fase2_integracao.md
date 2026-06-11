@@ -11,5 +11,7 @@ Portifolio_academico/
 ├── index.html          # Interface com conexões externas integradas
 ├── style.css           # Estilização padrão GitHub + Branding LinkedIn
 ├── script.js          # Consumo assíncrono da GitHub REST API
-├── fase1_planejamento.md
-└── fase2_integracao.md
+└── desenvolvimento_docs
+    ├── fase1_planejamento.md
+    ├── fase2_integracao.md
+    └── fase3_seguranca.md
