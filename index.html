@@ -1,45 +1,44 @@
+```html
 <!DOCTYPE html>
 <html lang="pt-BR">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfólio - Cauan</title>
+    <title>PortfolioHUB - Kauan9r7</title>
     <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
     <header>
-        <h1>Cauan</h1>
-        <p>Estudante - Portfólio Acadêmico e Profissional</p>
+        <div class="container">
+            <h1>PortfolioHUB</h1>
+            <nav>
+                <ul>
+                    <li><a href="#sobre">Sobre</a></li>
+                    <li><a href="#projetos">Projetos GitHub</a></li>
+                    <li><a href="#seguranca">Painel de Acesso</a></li>
+                </ul>
+            </nav>
+        </div>
     </header>
-    <main>
-        <section>
-            <h2>Sobre Mim</h2>
-            <p>Olá, eu sou Cauan.</p>
-            <p>Este é meu portfólio acadêmico e profissional, criado para reunir meus projetos, documentos e estudos
-                desenvolvidos durante minha formação.</p>
+
+    <main class="container">
+        <section id="sobre" class="section">
+            <h2>Sobre o PortfolioHUB</h2>
+            <p>Esta plataforma centraliza e exibe de forma dinâmica os meus projetos acadêmicos e profissionais armazenados diretamente no GitHub, integrada com controle de visualização simulado.</p>
         </section>
 
-        <section>
-            <h2>Projetos Acadêmicos</h2>
-            <ul>
-                <li><a href="projetos-academicos/projeto-inicial/index.html">Projeto Inicial</a></li>
-            </ul>
-        </section>
-
-        <section>
-            <h2>Projetos Pessoais</h2>
-            <p>Em breve...</p>
+        <section id="projetos" class="section">
+            <h2>Meus Projetos (Via GitHub API)</h2>
+            <div id="loading" class="loading">Carregando repositórios do GitHub...</div>
+            <div id="github-projects" class="projects-grid">
+                </div>
         </section>
     </main>
-    <footer>
-        <p>Contato</p>
-        <ul>
-            <li><a href="https://github.com/Kauan9r7">GitHub</a></li>
-            <li><a href="https://www.linkedin.com/in/cauan-bastos-202389400/">LinkedIn</a></li>
-        </ul>
-    </footer>
-</body>
 
+    <footer>
+        <p>&copy; 2026 PortfolioHUB | Desenvolvido por Kauan9r7</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
 </html>
